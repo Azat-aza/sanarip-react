@@ -1,13 +1,20 @@
 .App {
   text-align: center;
 }
-body{
-  background-color: #282c34;
-}
+/* body{ */
+  /* background-color: #282c34; */
+/* } */
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.canteunr{
+  display: flex;
+  justify-content: center;
+}
+.text{
+  padding: 10px ;
 }
 
 @media (prefers-reduced-motion: no-preference) {
