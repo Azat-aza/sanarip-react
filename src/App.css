@@ -1,9 +1,15 @@
 .App {
   text-align: center;
 }
+<<<<<<< HEAD
 /* body{ */
   /* background-color: #282c34; */
 /* } */
+=======
+body{
+  background-color: green;
+}
+>>>>>>> 2a1e3887f27d91e31c6f1c8f8dfba29add834416
 
 .App-logo {
   height: 40vmin;
